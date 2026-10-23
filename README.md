@@ -4,4 +4,5 @@ A silly web page spoof of Cards Against Humanity, inspired by this LinkedIn post
 Try it here!
 https://ericpostmaster.github.io/data_science_against_humanity/
 
-![website screenshot](https://github.com/EricPostMaster/data_science_against_humanity/blob/a41e9f42b77c8b7635d0ed3e9f87f8240f68ce99/dsah_screenshot.jpg)
+![website screenshot](https://github.com/EricPostMaster/data_science_against_humanity/blob/1087421866f8a7722896f9fe76ea804e71a4aeb6/terrible_dsah_screenshot.jpg)
+                      
